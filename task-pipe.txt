@@ -1,5 +1,0 @@
-1|Cook a vacation|1958_08_30|Work
-1|Plan a book|2108_08_20|Work
-0|Write a vacation|1884_02_04|School
-1|Complete dinner|1716_01_07|School
-1|Complete the dog|1844_05_13|Work

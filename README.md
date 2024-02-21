@@ -6,9 +6,9 @@ To make a request to this service, simply clear out the file called task-pipe.tx
 
 ![the example call](callimg.png)
 
-## How will I receive a response from this service?
+### How will I receive a response from this service?
 Once a request has been made to the service, within the next 5 seconds, the service will write a response containing 5 example tasks to the file task-pipe.txt. This clears the "gen" call so that the service will only respond when asked. You can then read the data from this file and use it as needed.
 
-## UML sequence diagram
+### UML sequence diagram
 
 ![UML sequence diagram](image.png)
